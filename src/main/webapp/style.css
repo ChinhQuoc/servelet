@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.product-management {
+	margin-top: 20px;
+}
+
+.product-form {
+  max-width: 50%;
+  margin: 20px 0;
+}
+
+.form-group label, .button-save {
+  margin: 10px 0;
+}
